@@ -1,2 +1,2 @@
 # telegram-photo-bot-for-rpi
-Insert you token telegram bot in config.py
+Insert you telegram bot token in config.py
